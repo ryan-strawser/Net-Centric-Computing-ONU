@@ -1,0 +1,102 @@
+
+/* 
+    Created on : Feb 8, 2017, 6:27:02 PM
+    Author     : straw
+*/
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+#newImg{
+    border: 1px solid black;
+    background-image: url("Logo-Two-Men-and-a-Yellow -Truck-Omaha-Nebraska.jpg");
+    background-size: cover;
+    border-color: black;
+    border-spacing: 1px;
+    margin-top: 0px;
+    width: 702px;
+    height: 340px;
+}
+
+#divTopImg{
+    position: relative;
+    top: -80px;
+    color: white;
+    left: 20px;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 0px;
+}
+
+#divBottom {
+    position: relative;
+    color: black;
+    top: 130px;
+    left: 110px;
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 0px;
+}
+
+#divTruckMen{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: "Bauhaus 93";
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bolder;
+    line-height: 0px; 
+}
+
+#pdivReg{
+    font-size: 10px;
+}
+
+#pdivColumbus{
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+}
+
+#widen{
+    font-size: 40px;
+}
+
+#pTruckMen{
+    line-height: 0px;  
+}
+
+#pFontNum{
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 0px;
+}
+
+#divDodoBird{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: 11px;
+    font-family: "Arial";
+    line-height: 5px; 
+}
+
+#pdiv1{
+    float: right;
+}
+
